@@ -1,3 +1,3 @@
 # MastersSoftware-ProjectManagementProject
 
-* The powerpoint presentation is uploaded to the repository
+* The powerpoint presentation is uploaded to this repository
